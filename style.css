@@ -1,0 +1,27 @@
+#first-heading {
+    text-align: center;
+    font-family: Croissant One;
+}
+#display {
+    width:250px;
+    border-radius: 50%;
+    
+}
+#container {
+    text-align: center;
+    font-family: Croissant One;
+    font-weight: 600;
+}
+#container h1 {
+    margin-top: 10px;
+}
+.form-group {
+    margin-left: 10px;
+
+}
+#bio-p {
+    margin-left: 10px;
+    margin-top: 10px;
+    font-family: Croissant One;
+    font-weight: 600;
+}
